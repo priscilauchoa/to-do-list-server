@@ -1,19 +1,19 @@
-const allTasks = () => {
+export const allTasks = () => {
     //get data 
     //to do
     // res.json(tasks);
 };
-const byId = () => {
+export const byId = () => {
     //get data 
     //to do
     // res.json(tasks);
 };
-const editTask = () => {
+export const editTask = () => {
     //edit data
     //to do
     // res.json(tasks);
 };
-const removeTask = () => {
+export const removeTask = () => {
     //remove data 
     //to do
 };
